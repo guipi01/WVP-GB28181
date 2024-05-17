@@ -1,9 +1,7 @@
-### Well hello there!
+### WVP-GB28181 2.0漏洞
 
-This repository is meant to provide an example for *forking* a repository on GitHub.
+这是一个关于WVP-GB28181 2.0 的逻辑漏洞
+![WechatIMG603](https://github.com/myz08/WVP-GB28181/assets/102499073/773a80ff-f0f0-4b46-8a10-79dc36836832)
 
-Creating a *fork* is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
 
-After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
-
-For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
+参考链接：[https://github.com/648540858/wvp-GB28181-pro](url)
